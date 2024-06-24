@@ -1,7 +1,7 @@
 <h2>🥳Hey there! I'm Santiago😎😎</h2>
 <h3 align="center">A programmer who likes numbers, and stuff</h3>
 
-<img src="https://github.com/Pro0072006/Pro0072006/assets/38741779/165c85ad-6008-4225-997a-b6d63045f6e7" alt="Coding" width="700"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width="700"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pro0072006&label=Profile%20views&color=0e75b6&style=flat" alt="pro0072006" /> </p>
 
