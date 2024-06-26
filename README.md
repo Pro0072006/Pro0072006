@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;Information
 
-- 👨‍💻 All about me is her -> [https://pro0072006.github.io](https://pro0072006.github.io) (In development)
+- 👨‍💻 Web page -> [https://pro0072006.github.io](https://pro0072006.github.io)
 
 - 📫 How to reach me **santiagoyasno@gmail.com**
 
