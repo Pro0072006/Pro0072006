@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;Information
 
-- 👨‍💻 Web page -> [https://pro0072006.github.io](https://pro0072006.github.io)
+- 👨‍💻 Web page -> [https://santimendoza.com/](https://santimendoza.com/)
 
 - 📫 How to reach me **santiagoyasno@gmail.com**
 
